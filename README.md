@@ -1,9 +1,9 @@
-# Cookiecutter Data Science
+# Cookiecutter Data Science (GainField Edition) - Sun/Goldberg Lab
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
+_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work within the Sun/Goldberg Lab._
 
 
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
+#### [Project homepage](http://drivendata.github.io/linussun/cookiecutter-data-science/)
 
 
 ### Requirements to use the cookiecutter template:
@@ -26,11 +26,11 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/linussun/cookiecutter-data-science/
 
-
+```
 [![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
-
+```
 
 ### The resulting directory structure
 ------------
