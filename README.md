@@ -3,10 +3,10 @@
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work within the Sun/Goldberg Lab._
 
 
-#### [Project homepage]:(http://www.github.com/linussun/cookiecutter-data-science/)
+#### [Project homepage] (Choose the gainfield branch):(http://www.github.com/linussun/cookiecutter-data-science/)
 
 
-### Requirements to use the cookiecutter template:
+### Requirements and instructions to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5
  - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed with pip by or conda depending on how you manage your Python packages:
@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ```
 
 
-### To start a new project, run:
+### To start a new project using the Sun/Goldberg lab cookiecutter-data-science gainfield edition, run:
 ------------
 
     cookiecutter https://github.com/linussun/cookiecutter-data-science/  --checkout gainfield
