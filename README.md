@@ -9,17 +9,11 @@ _A logical, reasonably standardized, but flexible project structure for doing an
 ### Requirements and instructions to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5
- - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed with pip by or conda depending on how you manage your Python packages:
-
-``` bash
-$ pip install cookiecutter
-```
-
-or
+ - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed by the application conda which should have been installed with the Anaconda package:
 
 ``` bash
 $ conda config --add channels conda-forge
-$ conda install cookiecutter
+$ conda install cookiecutter 
 ```
 
 
