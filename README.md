@@ -26,17 +26,17 @@ $ conda install cookiecutter
 ### To start a new project using the Sun/Goldberg lab cookiecutter-data-science gainfield edition, run:
 ------------
 
-    cookiecutter https://github.com/linussun/cookiecutter-data-science/  --checkout gainfield
+    cookiecutter https://github.com/linussun/cookiecutter-data-science/  --checkout gainfields
 
 ```
 [![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
 ```
 
-### The resulting directory structure
+### The resulting directory structure. Note that (*) directories are the principle ones which will be the most useful in the Sun/Goldberg Lab.
+
 ------------
 
 The directory structure of your new project looks like this: 
-Note that (*) directories are the principle ones which will be the most useful in the Sun Lab.
 
 ```
 ├── LICENSE
