@@ -3,7 +3,7 @@
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work within the Sun/Goldberg Lab._
 
 
-#### [Project homepage](http://drivendata.github.io/linussun/cookiecutter-data-science/)
+#### [Project homepage]:(http://www.github.com/linussun/cookiecutter-data-science/)
 
 
 ### Requirements to use the cookiecutter template:
