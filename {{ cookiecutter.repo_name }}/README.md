@@ -8,6 +8,7 @@ Project Organization
 
 The directory structure of your new project looks like this: 
 
+```
 ├── LICENSE
 ├── Makefile              <- Makefile with commands like `make data` or `make train` (N/A)
 ├── README.md         (*) <- The top-level README for developers using YOUR project. 
@@ -55,6 +56,7 @@ The directory structure of your new project looks like this:
 │       └── visualize.py
 │
 └── tox.ini                <- tox file with settings for running tox; see tox.testrun.org (LDS: N/A)
+```
 
 --------
 
