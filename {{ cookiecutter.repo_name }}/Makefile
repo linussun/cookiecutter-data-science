@@ -22,6 +22,7 @@ endif
 
 ## Install Python Dependencies
 requirements: test_environment
+	pip install -U pip setuptools wheel
 	pip install -r requirements.txt
 
 ## Make Dataset
@@ -30,11 +31,12 @@ data: requirements
 
 ## Delete all compiled Python files
 clean:
-	find . -name "*.pyc" -exec rm {} \;
+	find . -type f -name "*.py[co]" -delete
+	find . -type d -name "__pycache__" -delete
 
 ## Lint using flake8
 lint:
-	flake8 --exclude=lib/,bin/,docs/conf.py .
+	flake8 src
 
 ## Upload Data to S3
 sync_data_to_s3:
