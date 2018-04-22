@@ -28,9 +28,7 @@ $ conda install cookiecutter
 
     cookiecutter https://github.com/linussun/cookiecutter-data-science/  --checkout gainfields
 
-```
-[![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
-```
+[![asciicast](https://asciinema.org/a/MxuoCEAcf5Q12LuGIhxHLaSmt.png)](https://asciinema.org/a/MxuoCEAcf5Q12LuGIhxHLaSmt)
 
 ### The resulting directory structure. Note that (*) directories are the principle ones which will be the most useful in the Sun/Goldberg Lab.
 
