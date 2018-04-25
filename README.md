@@ -1,5 +1,4 @@
-# Sun/Goldberg Lab Cookiecutter Data Science 
-## (GainField branch) 
+# Sun/Goldberg Lab Cookiecutter Data Science (GainField branch) 
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work within the Sun/Goldberg Lab._
 
