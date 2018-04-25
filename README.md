@@ -1,14 +1,15 @@
-# Sun/Goldberg Lab Cookiecutter Data Science (GainField Ed.) 
+# Sun/Goldberg Lab Cookiecutter Data Science (GainField branch) 
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work within the Sun/Goldberg Lab._
 
 
-#### [Project homepage] (Choose the gainfield branch):(http://www.github.com/linussun/cookiecutter-data-science/)
+#### [Project homepage] (Choose the gainfield branch):
+https://github.com/linussun/cookiecutter-data-science/tree/gainfields
 
 
 ### Requirements and instructions to use the cookiecutter template:
 -----------
- - Python 2.7 or 3.5
+ - Python 2.7 or 3.5 (Preferably 3.5 installed by 64-bit Anaconda) 
  - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed by the application conda which should have been installed with the Anaconda package:
 
 ``` bash
@@ -24,8 +25,8 @@ $ conda install cookiecutter
 
 [![asciicast](https://asciinema.org/a/MxuoCEAcf5Q12LuGIhxHLaSmt.png)](https://asciinema.org/a/MxuoCEAcf5Q12LuGIhxHLaSmt)
 
-### The resulting directory structure. Note that (*) directories are the principle ones which will be the most useful in the Sun/Goldberg Lab.
-
+## (*) Note that directories marked by asterix are the most useful in the Sun/Goldberg Lab.
+### The resulting directory structure below: 
 ------------
 
 The directory structure of your new project looks like this: 
