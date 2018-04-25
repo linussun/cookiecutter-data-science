@@ -25,7 +25,7 @@ $ conda install cookiecutter
 
 [![asciicast](https://asciinema.org/a/MxuoCEAcf5Q12LuGIhxHLaSmt.png)](https://asciinema.org/a/MxuoCEAcf5Q12LuGIhxHLaSmt)
 
-## (*) Note that directories marked by asterix are the most useful in the Sun/Goldberg Lab.
+## (*) Note that directories marked by asterix are the most useful for our Lab.
 ### The resulting directory structure below: 
 ------------
 
