@@ -9,7 +9,7 @@ https://github.com/linussun/cookiecutter-data-science/tree/gainfields
 
 ### Requirements and instructions to use the cookiecutter template:
 -----------
- - Python 2.7 or 3.5 (Preferably 3.5 installed by 64-bit Anaconda) 
+ - Python 2.7 or 3.5 (Preferably 3.5 installed by the free 64-bit Anaconda Scientific Package) 
  - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed by the application conda which should have been installed with the Anaconda package:
 
 ``` bash
@@ -18,7 +18,8 @@ $ conda install cookiecutter
 ```
 
 
-### To start a new project using the Sun/Goldberg lab cookiecutter-data-science gainfield edition, run:
+### To start a new project using the Sun/Goldberg lab cookiecutter-data-science (gainfield branch), run:
+Note: This if for MacOS/Linux, if you get an error, you may need more permissionsn ad you may have to "sudo" the command. For Windows users may need a powershell with admin priviledges.  
 ------------
 
     cookiecutter https://github.com/linussun/cookiecutter-data-science/  --checkout gainfields
